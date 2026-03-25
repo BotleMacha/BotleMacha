@@ -33,7 +33,7 @@ I’m a Data Analyst based in Durban, South Africa with 3+ years of experience w
 
 ## 📊 Featured Projects
 
-### 🔹 [Superstore Sales Dashboard](https://github.com/BotleMacha/REPLACE-WITH-REPO-LINK)
+### 🔹 [Sales Dashboard (Power BI)](https://github.com/BotleMacha/Sales-Dashboard-Power-BI)
 Power BI dashboard analyzing sales, profit, customer segments, and forecasting trends.
 
 ### 🔹 [Applied Data Science Capstone](https://github.com/BotleMacha/Applied-Data-Science-Capstone)
